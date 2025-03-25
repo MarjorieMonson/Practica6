@@ -1,0 +1,37 @@
+{
+  "name": "practica6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "��#\u0000 \u0000G\u0000u\u0000i\u0000a\u00006\u0000\r\u0000 \u0000#\u0000 \u0000P\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000a\u00006\u0000\r\u0000 \u0000#\u0000 \u0000P\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000a\u00006\u0000\r\u0000 \u0000#\u0000 \u0000P\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000a\u00006\u0000\r\u0000 \u0000",
+  "dependencies": {
+    "argon2": "^0.41.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "mongoose": "^8.13.0",
+    "moongose": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarjorieMonson/Practica6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarjorieMonson/Practica6/issues"
+  },
+  "homepage": "https://github.com/MarjorieMonson/Practica6#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
